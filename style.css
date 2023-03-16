@@ -845,7 +845,7 @@
 
 .section-first{
   margin: 0 auto;
-  width: 416px;
+  width: 100%;
   height: 2026px;
   background-image: url(images/image-section.png);
   background-position: center;
@@ -853,7 +853,7 @@
   background-size: cover;
 }
 .header{
-  
+  margin: 0 auto;
   width: 341px;
   height: 104px;
 
@@ -863,9 +863,11 @@
   display: flex;
   flex-wrap: wrap;
   margin-left: 0px;
-
-
- 
+}
+.conteiner-menu {
+  
+  margin-top: 334px;
+  margin-left: 145px;
 }
 .menu{
   width: 121px;
