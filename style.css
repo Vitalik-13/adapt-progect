@@ -834,7 +834,7 @@
 .last-phone-text{
   display: none;
 }
- @media( max-width:765px ){
+ @media( max-width:720px ){
   *{
     box-sizing: border-box;
 }
