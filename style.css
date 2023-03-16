@@ -841,6 +841,7 @@
 .body{
   font-family: 'Montserrat';
   max-width: 416px;
+  margin: 0 auto;
 }
 
 .section-first{
