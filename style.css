@@ -846,6 +846,7 @@
 .section-first{
   margin: 0 auto;
   width: 100%;
+  max-width: 416px;
   height: 2026px;
   background-image: url(images/image-section.png);
   background-position: center;
@@ -908,7 +909,6 @@
 .conteiner-menu{
   margin-left: 0;
   margin-top: 334px;
-  margin-left: 143px;
 }
 .big-text{
   width: 335px;
@@ -936,7 +936,7 @@
   display: inline-block;
 }
 .buttons{ 
-  margin: 50px 114px; 
+  margin: 50px auto 0; 
   width: 185px;
   display: flex;
   flex-wrap: wrap;
@@ -957,6 +957,7 @@
 }
 .two-section{
   width: 100%;
+  max-width: 416px;
   background: #F3F3F3; 
 }
 
@@ -1120,7 +1121,6 @@ input {
     width: 414px;
     margin-top: 852px;
     background: white;
-    margin: 611px auto 0;
 }
 .section-container-two {
   margin: 0 auto;
@@ -1161,6 +1161,7 @@ input {
 }
 .footer {
   width: 100%;
+  max-width: 414px;
   height: 202px;
 }
 .footer-block {
