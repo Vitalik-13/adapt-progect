@@ -838,6 +838,11 @@
   *{
     box-sizing: border-box;
 }
+.body{
+  font-family: 'Montserrat';
+  max-width: 416px;
+}
+
 .section-first{
   margin: 0 auto;
   width: 416px;
